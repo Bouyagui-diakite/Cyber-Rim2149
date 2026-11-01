@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "games": "Jeux",
+    "hardware": "Matériel",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "La Plateforme Gaming",
+    "subtitle": "de référence en Mauritanie",
+    "desc": "Jeux vidéo, consoles, accessoires — tout ce dont le gamer mauritanien a besoin.",
+    "cta_games": "Découvrir les Jeux",
+    "cta_shop": "Voir le Matériel"
+  },
+  "games": {
+    "title": "Jeux à la Une",
+    "subtitle": "Les titres incontournables du moment",
+    "more": "Voir tous les jeux",
+    "new": "NOUVEAU",
+    "hot": "POPULAIRE"
+  },
+  "hardware": {
+    "title": "Matériel Gaming",
+    "subtitle": "Consoles, PC, accessoires — équipez-vous au meilleur prix",
+    "more": "Voir tout le matériel",
+    "add_cart": "Ajouter au panier",
+    "buy_now": "Acheter maintenant",
+    "available": "En stock",
+    "out_of_stock": "Rupture de stock"
+  },
+  "footer": {
+    "tagline": "La plateforme gaming de référence en Mauritanie.",
+    "links": "Liens rapides",
+    "contact": "Contact",
+    "follow": "Nous suivre",
+    "rights": "Tous droits réservés."
+  },
+  "categories": {
+    "consoles": "Consoles",
+    "controllers": "Manettes",
+    "headsets": "Casques",
+    "pc": "PC Gaming",
+    "components": "Composants",
+    "monitors": "Écrans",
+    "keyboards": "Claviers",
+    "mice": "Souris",
+    "chairs": "Sièges"
+  }
+}

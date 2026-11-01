@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "games": "Games",
+    "hardware": "Hardware",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "The Gaming Platform",
+    "subtitle": "of reference in Mauritania",
+    "desc": "Video games, consoles, accessories — everything the Mauritanian gamer needs.",
+    "cta_games": "Explore Games",
+    "cta_shop": "Shop Hardware"
+  },
+  "games": {
+    "title": "Featured Games",
+    "subtitle": "The must-play titles right now",
+    "more": "View all games",
+    "new": "NEW",
+    "hot": "HOT"
+  },
+  "hardware": {
+    "title": "Gaming Hardware",
+    "subtitle": "Consoles, PCs, accessories — gear up at the best price",
+    "more": "View all hardware",
+    "add_cart": "Add to cart",
+    "buy_now": "Buy now",
+    "available": "In stock",
+    "out_of_stock": "Out of stock"
+  },
+  "footer": {
+    "tagline": "Mauritania's reference gaming platform.",
+    "links": "Quick links",
+    "contact": "Contact",
+    "follow": "Follow us",
+    "rights": "All rights reserved."
+  },
+  "categories": {
+    "consoles": "Consoles",
+    "controllers": "Controllers",
+    "headsets": "Headsets",
+    "pc": "Gaming PC",
+    "components": "Components",
+    "monitors": "Monitors",
+    "keyboards": "Keyboards",
+    "mice": "Mice",
+    "chairs": "Chairs"
+  }
+}

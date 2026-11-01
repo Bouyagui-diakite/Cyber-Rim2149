@@ -1,0 +1,11 @@
+.claude/
+node_modules/
+dist/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# image cassée (page HTML enregistrée en .jpg) à remplacer
+public/images/hardware/27.jpg
